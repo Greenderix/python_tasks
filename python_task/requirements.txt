@@ -1,0 +1,4 @@
+clickhouse-driver==0.2.9
+psycopg2-binary==2.9.10
+pytz==2025.1
+tzlocal==5.2
